@@ -37,7 +37,7 @@ Call center operations lacked visibility into employee performance, call pattern
 8. Average Call Length
 
 ---
-
+![Call Center Performance Dashboard](assets/call_center_banner.png)
 ## Critical Findings
 
 ### 1. Agent Performance Gaps
