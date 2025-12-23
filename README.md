@@ -166,7 +166,7 @@ Data Scientist | Business Intelligence Analyst
 
 - Email: timothytshimauswu@gmail.com
 - LinkedIn: [linkedin.com/in/utshimauswu](https://www.linkedin.com/in/utshimauswu)
-- Portfolio: [timothy-ai-ml-portfolio-landing.vercel.app](https://timothy-ai-ml-portfolio-landing.vercel.app/)
+- Portfolio: [timothy-ai-ml-portfolio-landing.vercel.app](https://timothy-tshimauswu-portfolio-landin.vercel.app/)
 
 ---
 
