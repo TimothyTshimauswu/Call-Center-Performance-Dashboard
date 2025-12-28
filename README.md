@@ -1,6 +1,22 @@
 # Call Center Performance Dashboard
 
-**Interactive Dashboard**: [View Live on Tableau Public](https://public.tableau.com/app/profile/timothy.tshimauswu4603/viz/CallCentrePerformanceDashboard_17665283843880/CallCentrePerformanceDashboard-ExecutiveKPIMonitoring)
+<div align="center">
+
+![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Excel](https://img.shields.io/badge/Excel-365-217346?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Analytics](https://img.shields.io/badge/Operational-Analytics-00B4D8?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/TimothyTshimauswu/Call-Center-Performance-Dashboard?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TimothyTshimauswu/Call-Center-Performance-Dashboard?style=social)
+
+**Unlocking R1.5M in Annual Savings Through Real-Time Operational KPI Monitoring**
+
+[![View Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-00B4D8?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/timothy.tshimauswu4603/viz/CallCentrePerformanceDashboard_17665283843880/CallCentrePerformanceDashboard-ExecutiveKPIMonitoring)
+[![Read Case Study](https://img.shields.io/badge/Read-Case%20Study-blue?style=for-the-badge)](https://github.com/TimothyTshimauswu/Call-Center-Performance-Dashboard#readme)
+
+</div>
 
 ---
 
